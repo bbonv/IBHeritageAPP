@@ -23,14 +23,13 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
+                    "id": "test run",
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Tall Lady",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://github.com/bbonv/IBHeritageAPP/raw/main/docs/sample/images/6121C16C-7801-457F-A6EB-B49B0FF77417.jpeg"  
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
