@@ -23,16 +23,16 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "test run",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
+                    "id": "statues",
+                    "lat": "30.69212855312359",
+                    "lon": "-88.13577731792222",
                     "type": "statue",
                     "name": "Tall Lady",
                     "images": [
                         "https://github.com/bbonv/IBHeritageAPP/raw/main/docs/sample/images/6121C16C-7801-457F-A6EB-B49B0FF77417.jpeg"  
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "Testing to see if photo works",
+                    "more": "this is a test run",
                     "urls": [
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
                         "https://example.org/mypoi"
