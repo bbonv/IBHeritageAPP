@@ -66,10 +66,9 @@
                     "lat": "30.696228",
                     "lon": "-88.136798",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "St. Joseph",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg"
                     ],
                     "description": "Located at Skips Place",
                     "more": "Donated in 1901 and located in front of Skips Place this statue represents Joseph, the human father of Jesus. Saint Joseph is shown as a figure of trust and protection to the Christ Child.",
