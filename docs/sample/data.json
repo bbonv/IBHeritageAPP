@@ -75,7 +75,6 @@
                     "urls": [
                         "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
-                    ]
                 },
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
