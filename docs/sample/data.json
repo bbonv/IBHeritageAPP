@@ -89,8 +89,8 @@
                     "type": "statue",
                     "name": "St. Ignatius",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/bbonv/IBHeritageAPP/raw/main/docs/sample/images/Screenshot%202023-03-21%20at%208.19.46%20PM.png",
+                        
                     ],
                     "description": "He was the founder of the Society of Jesus and the statue has fragments from the Mamresa cave where he composed the spiritual exercises. Known for its missionary, educational, and charitable works, the Jesuit order was a leading force in the modernizing of the Roman Catholic Church.",
                     "more": "More description, if you want",
