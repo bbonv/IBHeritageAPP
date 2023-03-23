@@ -36,25 +36,22 @@
                     "urls": [
                         "https://www.britannica.com/topic/rite-of-passage"
                     ]
-               },
-               {         
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+               },   
+                    {
+                    "id": "Statues",
+                    "lat": "30.69212855312359",
+                    "lon": "-88.13577731792222",
+                    "type": "Statue",
+                    "name": "Right of Passage",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/bbonv/IBHeritageAPP/raw/main/docs/sample/images/6121C16C-7801-457F-A6EB-B49B0FF77417.jpeg"  
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
-                }
+                    "description": "",
+                    "more": "The right of passage shows the right of passage from one social or religious status to another. Some of the most crucial examples are connected with birth, reproduction and death. These are universal and suggest that they go back many years ago. There is a superstition that if you pass through the arch before you graduate from Spring Hill that you will not graduate.", 
+                    "urls": ["https://www.britannica.com/topic/rite-of-passage"] 
+               }
             ]
-        }
+         }
+       }
     }
-}
+            
